@@ -1,0 +1,4 @@
+D:\Benjamin\Docs\Visual Studio 2010\Projects\HackNeo\HackNeo\bin\Debug\HackNeo.exe
+D:\Benjamin\Docs\Visual Studio 2010\Projects\HackNeo\HackNeo\bin\Debug\HackNeo.pdb
+D:\Benjamin\Docs\Visual Studio 2010\Projects\HackNeo\HackNeo\obj\x86\Debug\HackNeo.exe
+D:\Benjamin\Docs\Visual Studio 2010\Projects\HackNeo\HackNeo\obj\x86\Debug\HackNeo.pdb

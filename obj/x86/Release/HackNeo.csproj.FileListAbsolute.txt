@@ -1,0 +1,8 @@
+C:\Users\Benjamin\AppData\Local\Temporary Projects\HackNeo\bin\Release\HackNeo.exe
+C:\Users\Benjamin\AppData\Local\Temporary Projects\HackNeo\bin\Release\HackNeo.pdb
+C:\Users\Benjamin\AppData\Local\Temporary Projects\HackNeo\obj\x86\Release\HackNeo.exe
+C:\Users\Benjamin\AppData\Local\Temporary Projects\HackNeo\obj\x86\Release\HackNeo.pdb
+D:\Benjamin\Docs\Visual Studio 2010\Projects\HackNeo\HackNeo\obj\x86\Release\HackNeo.exe
+D:\Benjamin\Docs\Visual Studio 2010\Projects\HackNeo\HackNeo\obj\x86\Release\HackNeo.pdb
+D:\Benjamin\Docs\Visual Studio 2010\Projects\HackNeo\HackNeo\bin\Release\HackNeo.exe
+D:\Benjamin\Docs\Visual Studio 2010\Projects\HackNeo\HackNeo\bin\Release\HackNeo.pdb
